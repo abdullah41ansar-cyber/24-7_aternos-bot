@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DEMONSPIDER-D3e1.aternos.me",
-    "port": 35122,
+    "ip": "DEMONSPIDER.aternos.me",
+    "port": 36158,
     "version": "1.20.1",
     "try-creative": false
   },
