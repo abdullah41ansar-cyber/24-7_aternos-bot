@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DEMONSPIDER.aternos.me",
-    "port": 36158,
+    "ip": "AnvilMC.aternos.me",
+    "port": 34297,
     "version": "1.20.1",
     "try-creative": false
   },
